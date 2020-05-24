@@ -1,0 +1,30 @@
+
+#container1 {
+    margin: auto;
+    width: 80%;
+    background: rgb(255, 255, 255);
+    
+    padding: 10px;
+    }
+.h3 {
+    text-align: right;
+}
+#radiunTable {
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px
+}
+#color
+{
+    background-color: rgba(248, 244, 244, 0.589);
+    padding: 2%;
+}
+#degrade{
+    background-image: linear-gradient(to bottom,transparent,white);
+    background-image: linear-gradient(to top,white,transparent);
+    background-image: linear-gradient(to left,rgb(75, 74, 74),transparent);
+    background-image: linear-gradient(to right,rgb(75, 75, 75),transparent);
+}
+.h4 {
+    text-align: center;
+}
